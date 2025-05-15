@@ -1,0 +1,19 @@
+# Node dependencies
+node_modules/
+
+# Build artifacts
+build/
+public/assets/
+public/static/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Editor/system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

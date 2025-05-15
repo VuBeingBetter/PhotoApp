@@ -1,0 +1,21 @@
+# Node dependencies
+node_modules/
+
+# Build artifacts
+dist/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Database files (if applicable)
+dump.rdb
+mongodb-data/
+
+# Editor/system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
